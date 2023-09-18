@@ -1,19 +1,11 @@
-### Hi there 👋
+### About me
+
+I'm senior in Department of Biomedical Engineering, Jeonbuk National University, South Korea. I mainly studied my major subjects were programing languages[ex) C, C++, C#, python...], elcectronic circuit theory, and data processing. Nowadays I usually learning for machine learning and deep learning with python. Futhermore, I'm interested in medical deep learning technique using medical image or imaging systems.
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juninlap&show_icons=true&theme=radical)
 
 
-
-**juninlap/juninlap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email : biomed3574@jbnu.ac.kr
+Phone : (+82) 10-6376-9803
